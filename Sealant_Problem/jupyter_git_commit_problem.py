@@ -1,6 +1,6 @@
 import nbformat
 
-notebook_path = "C:/junha/Artificial_Intelligence/Sealant_Problem/Sealant_Problem_OverSampling_SwinTransformer.ipynb"
+notebook_path = "C:/junha/Artificial_Intelligence/Sealant_Problem/Sealant_Problem_UnderSampling_ViT.ipynb"
 
 with open(notebook_path, "r", encoding="utf-8") as f:
     notebook = nbformat.read(f, as_version=4)
