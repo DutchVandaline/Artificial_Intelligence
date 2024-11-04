@@ -61,14 +61,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <!-- 이미지 삽입 ![Pequod](https://github.com/user-attachments/assets/8bf45ee3-1001-459a-8db2-f32632e20dfc)-->
-🍾 BottleCamp is in development. It is updating due to the progess. Please chech the github tech blog I've uploaded on the bottom.
+Artificial Intelligence is in development. It is updating due to the progess. Please chech the github tech blog I've uploaded on the bottom.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Development Blog
 ✒️ I am writing blog, 'Tech Blog, I guess?'. It's updating and progressing. <br><br>
-<a href="https://dutchvandaline.github.io/BottleCamp-Day1/">
-    <img src="https://img.shields.io/badge/Github Blog BottleCamp Day 1-171515?style=for-the-badge&logo=github&logoColor=white"
+<a href="https://dutchvandaline.github.io/ai/Sealant-Problem-with-PyTorch/">
+    <img src="https://img.shields.io/badge/Sealant-Problem-with-PyTorch-171515?style=for-the-badge&logo=github&logoColor=white"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
 
