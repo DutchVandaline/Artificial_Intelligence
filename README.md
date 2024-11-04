@@ -87,6 +87,9 @@
 
 * [![PyTorch][PyTorch]][PyTorch-url]
 * [![Jupyter-NoteBook][Jupyter-NoteBook]][Jupyter-NoteBook-url]  
+* [![Google-Colab][Google-Colab]][Google-Colab-url]
+* [![PyCharm][PyCharm]][PyCharm-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,6 +169,8 @@ Project Link: [https://github.com/DutchVandaline?tab=repositories](https://githu
 
 [PyTorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
 [PyTorch-url]: https://pytorch.org/
+[PyCharm]: https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white
+[PyCharm-url]: https://www.jetbrains.com/pycharm/
 [Google-Colab]: https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white
 [Google-Colab-url]: https://colab.research.google.com/
 [Jupyter-NoteBook]: https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
