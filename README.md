@@ -15,21 +15,21 @@
   <h3 align="center">Artificial Intelligence</h3>
 
   <p align="center">
-    This Repository is progressing.
     <br />
     <a href=""> 
+      <br />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
     </a>
     <br />
-    <a href="https://github.com/DutchVandaline/BottleCamp"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DutchVandaline/Artificial_Intelligence"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DutchVandaline/BottleCamp">View Demo</a>
+    <a href="https://github.com/DutchVandaline/Artificial_Intelligence">View Demo</a>
     ·
-    <a href="https://github.com/DutchVandaline/BottleCamp/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/DutchVandaline/Artificial_Intelligence/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/DutchVandaline/BottleCamp/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/DutchVandaline/Artificial_Intelligence/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -85,12 +85,8 @@
 -->
 ### Built With
 
-* [![Flutter][Flutter]][Flutter-url]
-* [![Django][Django]][Django-url]
-* [![Gemini][Gemini]][Gemini-url]
-* [![AndroidStudio][AndroidStudio]][AndroidStudio-url]
-* [![Figma][Figma]][Figma-url]
-  
+* [![PyTorch][PyTorch]][PyTorch-url]
+* [![Jupyter-NoteBook][Jupyter-NoteBook]][Jupyter-NoteBook-url]  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,9 +112,9 @@ If you are using mac, you need to set up XCode and Simulator.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/DutchVandaline/Pequod.git
+   git clone https://github.com/DutchVandaline/Artificial_Intelligence.git
    ```
-2. Excecute on Android studio
+2. Excecute on PyCharm
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,27 +155,21 @@ Project Link: [https://github.com/DutchVandaline?tab=repositories](https://githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/DutchVandaline/BottleCamp.svg?style=for-the-badge
-[contributors-url]: https://github.com/DutchVandaline/BottleCamp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/DutchVandaline/BottleCamp.svg?style=for-the-badge
-[forks-url]: https://github.com/DutchVandaline/BottleCamp/network/members
-[stars-shield]: https://img.shields.io/github/stars/DutchVandaline/BottleCamp.svg?style=for-the-badge
-[stars-url]: https://github.com/DutchVandaline/BottleCamp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/DutchVandaline/BottleCamp.svg?style=for-the-badge
-[issues-url]: https://github.com/DutchVandaline/BottleCamp/issues
+[contributors-shield]: https://img.shields.io/github/contributors/DutchVandaline/Artificial_Intelligence.svg?style=for-the-badge
+[contributors-url]: https://github.com/DutchVandaline/Artificial_Intelligence/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DutchVandaline/Artificial_Intelligence.svg?style=for-the-badge
+[forks-url]: https://github.com/DutchVandaline/Artificial_Intelligence/network/members
+[stars-shield]: https://img.shields.io/github/stars/DutchVandaline/Artificial_Intelligence.svg?style=for-the-badge
+[stars-url]: https://github.com/DutchVandaline/Artificial_Intelligence/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DutchVandaline/Artificial_Intelligence.svg?style=for-the-badge
+[issues-url]: https://github.com/DutchVandaline/Artificial_Intelligence/issues
 
-[Flutter]: https://img.shields.io/badge/Flutter-0c469c?style=for-the-badge&logo=flutter&logoColor=white
-[Flutter-url]: https://flutter.dev
-[Django]: https://img.shields.io/badge/Django-003b2a?style=for-the-badge&logo=django&logoColor=white
-[Django-url]: https://www.djangoproject.com
-[Gemini]: https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white
-[Gemini-url]: https://gemini.google.com/?hl=ko
-[Flutter-url]: https://gemini.google.com/?hl=ko
-[AndroidStudio]: https://img.shields.io/badge/Android_Studio-6fd089?style=for-the-badge&logo=androidstudio&logoColor=white
-[AndroidStudio-url]: https://developer.android.com/studio?hl=ko
-[Figma]: https://img.shields.io/badge/Figma-f83702?style=for-the-badge&logo=figma&logoColor=white
-[Figma-url]: https://www.figma.com/ko-kr/
-
+[PyTorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+[PyTorch-url]: https://pytorch.org/
+[Google-Colab]: https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white
+[Google-Colab-url]: https://colab.research.google.com/
+[Jupyter-NoteBook]: https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
+[Jupyter-NoteBook-url]: https://jupyter.org/
 
 
 
