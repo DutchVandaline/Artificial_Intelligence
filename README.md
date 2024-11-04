@@ -68,7 +68,7 @@ Artificial Intelligence is in development. It is updating due to the progess. Pl
 ## Development Blog
 ✒️ I am writing blog, 'Tech Blog, I guess?'. It's updating and progressing. <br><br>
 <a href="https://dutchvandaline.github.io/ai/Sealant-Problem-with-PyTorch/">
-    <img src="https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=github&logoColor=white"
+    <img src="https://img.shields.io/badge/Githdkdkfkdkub-171515?style=for-the-badge&logo=github&logoColor=white"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
 
