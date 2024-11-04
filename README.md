@@ -15,7 +15,6 @@
   <h3 align="center">Artificial Intelligence</h3>
 
   <p align="center">
-    <br />
     <a href=""> 
       <br />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"
